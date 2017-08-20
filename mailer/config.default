@@ -1,0 +1,11 @@
+[prod]
+url=http://localhost/api/v1/
+smtp_server=smtp.gmail.com
+smtp_port=25
+smtp_user=
+smtp_password=
+smtp_from=
+
+[storage]
+store_data=/opt/stockanalyses-data/
+storage_logs=/opt/stockanalyses-logs/
