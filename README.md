@@ -2,6 +2,8 @@
 It's a microservice which will send mails from a queue.
 
 ## Actions
+This is a list of possible supported actions:
+
 | Action | Description |
 | ------ | ----------- |
 | 1000 | Initial state |
